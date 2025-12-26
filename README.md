@@ -1,2 +1,2 @@
-# tabnews
-Implementation of a TabNews (tabnews.com.br) clone application.
+# TabNews
+Implementation of a [TabNews](https://tabnews.com.br) clone application.
