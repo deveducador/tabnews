@@ -2,7 +2,7 @@
   "name": "tabnews",
   "version": "1.0.0",
   "description": "Implementation of a TabNews (tabnews.com.br) clone application.",
-  "main": "",
+  "main": "./pages/index.js",
   "scripts": {
     "dev": "next dev"
   },
